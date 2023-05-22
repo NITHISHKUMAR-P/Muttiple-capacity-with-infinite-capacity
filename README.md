@@ -1,4 +1,4 @@
-# Exp.6 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# Exp.5 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ### Name : Nithishkumar P
 ### Reg no : 212221230070
 ### Date :
